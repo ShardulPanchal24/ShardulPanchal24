@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShardulPanchal24
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Java language.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me - via email
 - 😄 Pronouns: S-h-a-r-d-u-l
 

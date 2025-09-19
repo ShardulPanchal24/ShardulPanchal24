@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @ShardulPanchal24
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me - via email
-- 😄 Pronouns: S-h-a-r-d-u-l
+- 👋 Hi, I’m ShardulPanchal
+- 👀 I’m interested in Network Engineering and Security-related roles.
+- 🚀 I'm certified by CompTIA Security+ Cert.
+- 🌱 I’m currently learning and pursuing Network+.
+- 📫 How to reach me - via email:- shardulpanchal2004@gmail.com
+- 😄 Pronouns: Sha-r-dul
 
 <!---
 ShardulPanchal24/ShardulPanchal24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
